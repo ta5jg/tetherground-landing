@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Optimizing Fees on TRON – USDTg Launch</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      background-color: #0f0f0f;
+      color: #eee;
+      padding: 2rem;
+      line-height: 1.6;
+      max-width: 800px;
+      margin: auto;
+    }
+    h1, h2, h3 {
+      color: #00ffcc;
+    }
+    a {
+      color: #00ffcc;
+      text-decoration: none;
+      border-bottom: 1px solid #00ffcc33;
+    }
+    a:hover {
+      border-bottom: 1px solid #00ffcc;
+    }
+    code {
+      background: #1a1a1a;
+      padding: 0.2rem 0.4rem;
+      border-radius: 4px;
+      font-family: monospace;
+      color: #fff;
+    }
+  </style>
+</head>
+<body>
+  <h1>Optimizing TRX Fees for TetherGround USD (USDTg)</h1>
+  <p>Deploying a token on TRON can be extremely efficient, but understanding the resource model is key. Here's how to launch <strong>USDTg</strong> with minimal $TRX costs.</p>
+
+  <h2>1. Understand TRON Fees: Bandwidth & Energy</h2>
+  <ul>
+    <li><strong>Bandwidth:</strong> Needed for transaction data. You get ~5,000 free points daily.</li>
+    <li><strong>Energy:</strong> Required for smart contract execution (mint, deploy, etc).</li>
+  </ul>
+  <p>If you lack either, $TRX will be burned to cover the cost.</p>
+
+  <h2>2. Freeze TRX to Get Resources</h2>
+  <p>Freeze $TRX for Bandwidth or Energy:</p>
+  <ul>
+    <li>Freeze 20–25 TRX for Bandwidth (basic transfers)</li>
+    <li>Freeze 1,000–1,500 TRX for Energy (deploying, minting)</li>
+  </ul>
+
+  <h2>3. Daily Free Bandwidth</h2>
+  <p>Every TRON account gets 5,000 free Bandwidth per day. Use this for testing, sending, or light activity.</p>
+
+  <h2>4. Optimize Your Smart Contract</h2>
+  <ul>
+    <li>Minimize loops & expensive operations</li>
+    <li>Batch mint instead of individual calls</li>
+    <li>Test on <code>Shasta</code> or <code>Nile</code> testnet first</li>
+  </ul>
+
+  <h2>5. Monitor Network Conditions</h2>
+  <p>Check resource costs at <a href="https://tronscan.org" target="_blank">TronScan</a>. Avoid high congestion hours for cheaper fees.</p>
+
+  <h2>6. Consider Energy Rentals</h2>
+  <p>Platforms like <em>TronEnergy</em> or <em>EnergyRental</em> let you lease Energy cheaply.</p>
+
+  <h2>7. Summary</h2>
+  <ul>
+    <li>Freeze 2,000–3,000 TRX split between Energy & Bandwidth</li>
+    <li>Use daily free Bandwidth</li>
+    <li>Test first, then go mainnet</li>
+    <li>Keep some TRX frozen for post-launch management</li>
+  </ul>
+
+  <p><strong>Helpful?</strong> Share the word and explore the live site: <a href="https://usdtg.netlify.app">usdtg.netlify.app</a></p>
+</body>
+</html>
