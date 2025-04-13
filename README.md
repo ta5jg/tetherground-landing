@@ -13,7 +13,7 @@ If you sent any TRX or contributed to development, your name or wallet will be l
 - TMabc... – Anonymous donor 💫
 
 #### 🇪🇸 Español  
-- Si nos apoyaste con TRX o trabajo de desarrollo, puedes aparecer aquí.  
+- ¿Nos ayudaste con TRX o en el desarrollo? ¡Tu nombre puede estar aquí!  
 - Gracias a los colaboradores que ayudaron al lanzamiento de USDTg.  
 - ¿Deseas aparecer con apodo? Mándanos un DM.
 
@@ -29,7 +29,7 @@ If you sent any TRX or contributed to development, your name or wallet will be l
 
 #### 🇸🇦 العربية  
 - شكراً لكل من ساهم في إطلاق USDTg على شبكة TRON.  
-- إذا كنت ترغب في إدراج اسم مستعار بدلاً من العنوان – راسلنا مباشرة.  
+- إذا كنت تفضل الظهور باسم مستعار بدلاً من عنوان المحفظة، راسلنا مباشرة.  
 - نحترم الخصوصية، يمكنك أن تظل مجهولًا.
 
 #### 🇹🇷 Türkçe  
@@ -42,4 +42,5 @@ If you sent any TRX or contributed to development, your name or wallet will be l
 ### 🏅 How to Support  
 Want to be listed here? Support us with TRX:  
 **Wallet:** `TDhqMjTnDAUxYraTVLLie9Qd8NDGY91idq`  
-Even 5 TRX makes a difference in helping us mint & verify!
+Even 5 TRX helps us get closer to launch — thank you for supporting a grassroots project!
+
