@@ -1,0 +1,19 @@
+{
+  "name": "TetherGround Token List",
+  "timestamp": "2025-05-11T18:30:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 728126428,
+      "address": "TEpGiLGNB7W9W26LbvtU9wdukrLgLZwFgr",
+      "name": "TetherGround USD",
+      "symbol": "USDTg",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/ta5jg/assets/master/blockchains/tron/assets/TEpGiLGNB7W9W26LbvtU9wdukrLgLZwFgr/logo.png"
+    }
+  ]
+}
